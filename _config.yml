@@ -85,11 +85,10 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Elevkåren vid ProCivitas" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "Elevkåren vid ProCivitas är skolans oberoende elevintresseorganisation." # Site description and default description, also used in jekyll-seo-tag
+url: "https://www.ekvp.se" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+email: "chce.pch@procivitas.se"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # service_worker: false # Will turn off the service worker if set to false
@@ -108,11 +107,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-  HEM: /
-  OM KÅREN: /omkaren/
-  KOMMITTÉER: /kommitteer/
-  FACEBOOK: https://www.facebook.com/elevkaren/
-  BILDER: https://www.facebook.com/pg/elevkaren/photos/
+  Hem: /
+  Om kåren: /omkaren/
+  Kommittéer: /kommitteer/
+  Facebook: https://www.facebook.com/elevkaren/
+  Bilder: https://www.facebook.com/pg/elevkaren/photos/
   
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired

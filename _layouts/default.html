@@ -11,9 +11,9 @@
 
     {% if page.collectionpage %}
       {% seo title=false %}
+      <title>Elevkåren vid ProCivitas</title>
 
       {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-      <title>Elevkåren vid ProCivitas</title>
       <meta property="og:title" content="{{ collectiondata.title }}">
       <meta name="description" content="{{ collectiondata.description }}">
       <meta property="og:description" content="{{ collectiondata.description }}">

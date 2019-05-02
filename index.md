@@ -1,6 +1,4 @@
 ---
-title: About Alembic
-feature_text: |
   ## Elevkåren vid ProCivitas
   Test123
 feature_image: "indexbild.jpg"

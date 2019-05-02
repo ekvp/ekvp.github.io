@@ -111,11 +111,11 @@ navigation_header:
   HEM: /
   OM KÅREN: /omkaren/
   KOMMITTÉER: /kommitteer/
-  FACEBOOK: /
-  BILDER: /
+  FACEBOOK: https://www.facebook.com/elevkaren/
+  BILDER: https://www.facebook.com/pg/elevkaren/photos/
   
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
+  Twitter: https://twitter.com/aaaa
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour

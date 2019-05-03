@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  ## Elevkåren vid ProCivitas
+  <h1 style="color: #FFFFFF;">Elevkåren vid ProCivitas</h1>
   *Av elever, för elever*
 feature_image: "indexbild.jpg"
 excerpt: " "

@@ -65,7 +65,7 @@ body {
 .logo {
   display: inline-block;
   line-height: 0;
-  max-height: 4rem;
+  max-height: 2rem;
   @include flexbox;
   @include align-items(center);
   img {

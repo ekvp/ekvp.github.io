@@ -65,11 +65,11 @@ body {
 .logo {
   display: inline-block;
   line-height: 0;
-  max-height: 4rem;
+  max-height: 3rem;
   @include flexbox;
   @include align-items(center);
   img {
-    max-height: 3rem;
+    max-height: 3.5rem;
   }
 }
 

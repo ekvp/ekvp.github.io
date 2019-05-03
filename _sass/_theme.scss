@@ -8,9 +8,7 @@ body {
   overflow-x: hidden;
 }
 
-* {
-  text-shadow: none;
-}
+
 
 
 .container {
@@ -462,4 +460,8 @@ pre code {
     white-space: pre;
     overflow-x: scroll;
   }
+}
+
+* {
+  text-shadow: none;
 }

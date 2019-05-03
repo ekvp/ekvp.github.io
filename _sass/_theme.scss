@@ -1,24 +1,53 @@
 // Structural elements
 
 //KOMMITTERUTORNA
+
+
+
+
 .grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between; /* or space-around */
-} 
+}
 
 .grida {
   display: inline-block;
   margin-bottom: 8px;
-  width: calc(25% - 2px);
+  width: calc(50% - 4px);
+  text-decoration: none;
+  color: black;
 }
-
 
 @media screen and (min-width: 50em) {
-  a {
-    width: calc(12.5% - 3px);
+  .grida {
+    width: calc(25% - 6px);
   }
 }
+
+grida:hover img {
+  transform: scale(1.15);
+}
+
+figure {
+  margin: 0;
+  overflow: hidden;
+}
+
+figcaption {
+  margin-top: 15px;
+}
+
+img {
+  border: none;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background: #ccc;
+  transition: transform .2s ease-in-out;
+}
+
+
 
 //KOMMITTERUTORNA
 

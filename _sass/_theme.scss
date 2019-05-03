@@ -17,10 +17,11 @@ figcaption {
 
 .grida {
   display: inline-block;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
   width: calc(50% - 4px);
   text-decoration: none;
   color: black;
+  margin: 3px, 3px, 3px, 3px;
 }
 
 @media screen and (min-width: 50em) {

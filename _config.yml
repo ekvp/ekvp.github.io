@@ -85,7 +85,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Elevkåren vid ProCivitas" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Elevkåren vid ProCivitas är skolans oberoende elevintresseorganisation." # Site description and default description, also used in jekyll-seo-tag
+description: "Elevkåren vid ProCivitas - Av elever, för elever!" # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.ekvp.se" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "chce.pch@procivitas.se"

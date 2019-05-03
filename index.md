@@ -1,15 +1,21 @@
 ---
 title: 
 feature_text: |
-  ## Elevkåren vid ProCivitas
+  <h1 style="color: #FFFFFF;">Elevkåren vid ProCivitas</h1>
   *Av elever, för elever*
 feature_image: "indexbild.jpg"
 excerpt: " "
 ---
 
-<h1>Om Elevkåren</h1>  
+<h2>Om kåren</h2>  
 
-Elevkåren vid ProCivitas är en självständig elevdriven förening som verkar på ProCivitas Privata Gymnasium i Helsingborg.
+[här står någon kort text om vad vi sysslar med]
 
-Vi arbetar för att skapa en mer givande skolgång för våra medlemmar genom att tillvarata deras ekonomiska, ideella, sociala, akademiska och fackliga intressen.
 
+<h2>Rubrik 2</h2>  
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+<h2>Lorem ipsum</h2>  
+
+Åäö åäö åäö

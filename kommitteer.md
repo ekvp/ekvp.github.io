@@ -1,5 +1,6 @@
+ 
 <h1>Kommittéer</h1>
 
-Kåren har givetvis inte monopol på att arrangera saker och ting, utan elever är fria att gå med i olika kommittéer. Oavsett om du gillar fika, filmer, fest, sport, aktier, nördgrejer, koffein eller "högtider", så finns det något för dig! Och om det inte finns, starta en ny!
+På skolan finns det en massa olika elevdrivna kommittéer som bedriver sin egna verksamhet. Oavsett om du gillar fika, filmer, fest, sport, aktier, astronomi, koffein eller "högtider", så finns det något för dig! Och om det inte finns, [starta en ny](/startakommitte/)!
 
 [här nere är ett kollage av nuvarande kommittéer}

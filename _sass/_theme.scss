@@ -1,12 +1,15 @@
 // Structural elements
 body {
-  background: $backgroundColour;
+  background: #FFFFFF;
   color: $bodyColour;
   height: 100%;
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
 }
+
+
+
 
 .container {
   width: 90%;
@@ -43,12 +46,17 @@ body {
   overflow: hidden;
 }
 
+.header {
+  background: $backgroundColour
+}
+
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
-  background: $featureBackgroundColour;
+  background: #FFFFFF;
   background-size: cover;
+  color: #FFFFFF;
   background-position: center;
   .container {
     min-height: 35vh;
@@ -61,11 +69,11 @@ body {
 .logo {
   display: inline-block;
   line-height: 0;
-  max-height: 4rem;
+  max-height: 3rem;
   @include flexbox;
   @include align-items(center);
   img {
-    max-height: 5rem;
+    max-height: 3.5rem;
   }
 }
 
@@ -86,8 +94,8 @@ body {
 }
 
 .footer {
-  background: #222222;
-  color: $captionColour;
+  background: #FFFFFF;
+  color: 191919;
   a {
     color: $captionColour;
     &:hover {
@@ -420,9 +428,7 @@ pre code {
 
 // Sassline overrides
 .typeset {
-  a > code {
-    text-shadow: none;
-  }
+  text-shadow: none;
   .button,
   button {
     background-image: none;
@@ -454,4 +460,8 @@ pre code {
     white-space: pre;
     overflow-x: scroll;
   }
+}
+
+* {
+  text-shadow: none;
 }

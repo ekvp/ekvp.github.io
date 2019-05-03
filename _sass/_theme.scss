@@ -10,13 +10,13 @@
 .grida {
   display: inline-block;
   margin-bottom: 8px;
-  width: calc(50% - 4px);
+  width: calc(25% - 2px);
 }
 
 
-@media screen and (min-width: 25em) {
+@media screen and (min-width: 50em) {
   a {
-    width: calc(25% - 6px);
+    width: calc(12.5% - 3px);
   }
 }
 

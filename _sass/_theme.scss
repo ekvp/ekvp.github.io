@@ -1,7 +1,23 @@
 // Structural elements
 
 //KOMMITTERUTORNA
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* or space-around */
+} 
 
+a {
+  display: inline-block;
+  margin-bottom: 8px;
+  width: calc(50% - 4px);
+}
+
+@media screen and (min-width: 50em) {
+  a {
+    width: calc(25% - 6px);
+  }
+}
 
 //KOMMITTERUTORNA
 

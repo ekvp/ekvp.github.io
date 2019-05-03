@@ -5,7 +5,7 @@ På skolan finns det en massa olika elevdrivna kommittéer som bedriver sin egna
 
 <div class="row">
   <div class="column">
-    <img src="/assets/kommitteer/adastra.PNG/">
+    <img src="/assets/kommitteer/adastra.PNG">
 	<p>Test</p>
     <img src="/assets/kommitteer/">
     <img src="/assets/kommitteer/">

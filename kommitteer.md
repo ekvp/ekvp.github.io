@@ -6,9 +6,9 @@ På skolan finns det en massa olika elevdrivna kommittéer som bedriver sin egna
 <ul id="rig">
     <li>
         <a class="rig-cell" href="#">
-            <img class="rig-img" src="img/1.jpg">
+            <img class="rig-img" src="/assets/kommitteer/sport.PNG">
             <span class="rig-overlay"></span>
-            <span class="rig-text">Lorem Ipsum Dolor</span>
+            <span class="rig-text">Sportkommittén</span>
         </a>
     </li>
     <li>

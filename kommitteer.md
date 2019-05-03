@@ -5,11 +5,11 @@ På skolan finns det en massa olika elevdrivna kommittéer som bedriver sin egna
 
 <div class="row">
   <div class="column">
-    <img src="wedding.jpg">
+    <img src="/assets/kommitteer/adastra.PNG/">
 	<p>Test</p>
-    <img src="rocks.jpg">
-    <img src="falls2.jpg">
-    <img src="paris.jpg">
+    <img src="/assets/kommitteer/">
+    <img src="/assets/kommitteer/">
+    <img src="/assets/kommitteer/">
     <img src="nature.jpg">
     <img src="mist.jpg">
     <img src="paris.jpg">

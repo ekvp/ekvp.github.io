@@ -33,7 +33,7 @@ body {
     @include justify-content(space-between);
     padding: 1rem 0;
     @include breakpoint(break-1) {
-      @include align-items(center);
+      @include align-items(left);
     }
   }
 }

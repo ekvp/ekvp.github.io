@@ -60,7 +60,7 @@ a {
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
-	margin-top: 1em;
+	margin-top: 0.5em;
   }
 
   // Heading level 1.

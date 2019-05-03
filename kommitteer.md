@@ -10,6 +10,7 @@ På skolan finns det en massa olika elevdrivna kommittéer som bedriver sin egna
             <span class="rig-overlay"></span>
             <span class="rig-text">Sportkommittén</span>
         </a>
+		<p>Sportkommittén</p>
     </li>
     <li>
         <a class="rig-cell" href="#">

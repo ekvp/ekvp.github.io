@@ -7,16 +7,15 @@ feature_image: "indexbild.jpg"
 excerpt: " "
 ---
 
-<h3>Om kåren</h3>  
+<h2>Om kåren</h2>  
 
 [här står någon kort text om vad vi sysslar med]
 
 
-<h3>Rubrik 2</h3>  
+<h2>Rubrik 2</h2>  
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-
-<h3>Lorem ipsum</h3>  
+<h2>Lorem ipsum</h2f>  
 
 Åäö åäö åäö

@@ -21,10 +21,13 @@ figcaption {
   width: calc(50% - 4px);
   text-decoration: none;
   color: black;
+}
+
+.grida img {
   width: 100%; //knas
   height: 0;
   padding-bottom: 100%;
-}
+  }
 
 @media screen and (min-width: 50em) {
   .grida {

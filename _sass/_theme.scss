@@ -2,20 +2,37 @@
 
 //KOMMITTERUTORNA
 
-.square {
-    float:left;
-    position: relative;
-    width: 30%;
-    padding-bottom: 30%; /* = width for a 1:1 aspect ratio */
-    margin:4%;
-    overflow:hidden;
+div {
+  font-size: 0;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.kom {
-    position:absolute;
-    height:80%; /* = 100% - 2*10% padding */
-    width:90%; /* = 100% - 2*5% padding */
-    padding: 10% 5%;
+a {
+  font-size: 16px; 
+  display: inline-block;
+  margin-bottom: 8px;
+  width: calc(50% - 4px);
+  margin-right: 8px;
+}
+
+a:nth-of-type(2n) {
+  margin-right: 0;
+}
+
+@media screen and (min-width: 50em) {
+  a {
+    width: calc(25% - 6px);
+  }
+
+  a:nth-of-type(2n) {
+    margin-right: 8px;
+  }
+
+  a:nth-of-type(4n) {
+    margin-right: 0;
+  }
+}10% 5%;
 }
 
 //KOMMITTERUTORNA

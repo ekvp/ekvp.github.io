@@ -2,102 +2,118 @@
 
 På skolan finns det en massa olika elevdrivna kommittéer som bedriver sin egna verksamhet. Oavsett om du gillar fika, filmer, fest, sport, aktier, astronomi, koffein eller "högtider", så finns det något för dig! Och om det inte finns, [starta en ny](/startakommitte/)!
 
-<div class="square">
-    <div class="kom">
-        <img src="/assets/kommitteer/adastra.PNG">
-	<p>Ad Astra</p>
-    </div>
-</div>
+<div>
+  <a href="">
+    <figure>
+      <img src="/assets/kommitteer/adastra.PNG" alt="">
+      <figcaption>Ad Astra</figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        <img src="/assets/kommitteer/aktie.PNG">
-		<p>Aktiekommittén</p>
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="/assets/kommitteer/aktie.PNG" alt="">
+      <figcaption>Aktiekommittén</figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-		<img src="/assets/kommitteer/bak.PNG">
-		<p>Bakkommittén</p>
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="/assets/kommitteer/bak.PNG" alt="">
+      <figcaption>Bakkommittén</figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-		<img src="/assets/kommitteer/bio.PNG">
-		<p>Biokommittén</p>
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="/assets/kommitteer/bio.PNG" alt="">
+      <figcaption>Biokommittén</figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
-</div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
 
-<div class="square">
-    <div class="kom">
-        .. kom HERE ..
-    </div>
+  <a href="">
+    <figure>
+      <img src="" alt="">
+      <figcaption></figcaption>
+    </figure>
+  </a>
+
+
 </div>

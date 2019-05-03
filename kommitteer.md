@@ -14,7 +14,7 @@ På skolan finns det en massa olika elevdrivna kommittéer som bedriver sin egna
     <img src="/assets/kommitteer/chess.PNG">
     <img src="/assets/kommitteer/choir.PNG">
     <img src="/assets/kommitteer/fc.PNG">
-    <img src="/assets/kommitteer/hogtid.PNG
+    <img src="/assets/kommitteer/hogtid.PNG">
 
   </div>
   <div class="column">

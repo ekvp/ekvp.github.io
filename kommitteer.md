@@ -1,6 +1,6 @@
 <h2>Kommittéer</h2>
 
-Våra kära kommittéer är Procces maskineri som ser till att skolan är mer än bara plugg. Oavsett om du gillar fika, filmer, fest, sport, aktier, astronomi, koffein eller "högtider", så finns det något för dig! Och om det inte finns, varför inte [starta en ny](/startakommitte/)?
+Våra kära kommittéer är små elevdrivna föreningar som ser till att skolan är mer än bara plugg. Oavsett om du gillar fika, filmer, fest, sport, aktier, astronomi, koffein eller "högtider", så finns det något för dig! Och om det inte finns, varför inte [starta en ny](/startakommitte/)?
 
 <div class="grid">
   <a href="" class="grida">

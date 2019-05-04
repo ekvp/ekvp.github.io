@@ -62,7 +62,7 @@ På skolan finns det en massa olika elevdrivna kommittéer som bedriver sin egna
   <a href="" class="grida">
     <figure>
       <img src="/assets/kommitteer/killer.PNG" alt="">
-      <figcaption>Killergame</figcaption>
+      <figcaption>Killergame vid ProCivitas</figcaption>
     </figure>
   </a>
 
@@ -76,21 +76,21 @@ På skolan finns det en massa olika elevdrivna kommittéer som bedriver sin egna
   <a href="" class="grida">
     <figure>
       <img src="/assets/kommitteer/pccac.PNG" alt="">
-      <figcaption>College Application Committee</figcaption>
+      <figcaption>ProCivitas College Application Committee</figcaption>
     </figure>
   </a>
 
   <a href="" class="grida">
     <figure>
       <img src="/assets/kommitteer/science.PNG" alt="">
-      <figcaption>Science Committee</figcaption>
+      <figcaption>ProCivitas Science Committee</figcaption>
     </figure>
   </a>
 
   <a href="" class="grida">
     <figure>
       <img src="/assets/kommitteer/sorority.PNG" alt="">
-      <figcaption>Sorority</figcaption>
+      <figcaption>Sorority vid ProCivitas</figcaption>
     </figure>
   </a>
 

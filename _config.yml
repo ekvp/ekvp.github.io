@@ -107,11 +107,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-  Hem: /
-  Kommittéer: /kommitteer/
-  Facebook: https://www.facebook.com/elevkaren/
-  Bilder: https://www.facebook.com/pg/elevkaren/photos/
-  Kontakt: /kontakt/
+  HEM: /
+  KOMMITTÉER: /kommitteer/
+  FACEBOOK: https://www.facebook.com/elevkaren/
+  BILDER: https://www.facebook.com/pg/elevkaren/photos/
+  KONTAKT: /kontakt/
   
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
